@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+# Screenshot
+![](screenshot/img-1.jpg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
